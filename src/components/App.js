@@ -134,7 +134,7 @@ class App extends Component {
                             }}>
                                 <input
                                 type='text'
-                                placeholder='Add a file location'
+                                placeholder='Event Name'
                                 className='form-control mb-1'
                                 ref={(input)=>this.ticken = input}
                                 />
